@@ -1,12 +1,12 @@
 [
   {
-    "title": "Sample Title 1",
-    "image": "https://archem-team.github.io/zekoconfig/images/banner1.jpg",
-    "url": "https://yourdestination1.com"
+    "title": "Revolt",
+    "image": "https://appconfig.zeko.chat/images/revolt.png",
+    "url": "https://app.revolt.chat/api"
   },
   {
-    "title": "Sample Title 2",
-    "image": "https://archem-team.github.io/zekoconfig/images/banner2.jpg",
-    "url": "https://yourdestination2.com"
+    "title": "Pepchat",
+    "image": "https://appconfig.zeko.chat/images/pepchat.png",
+    "url": "https://peptide.chat/api"
   }
 ]
