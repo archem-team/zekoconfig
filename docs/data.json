@@ -3,5 +3,10 @@
     "title": "Revolt",
     "image": "https://appconfig.zeko.chat/images/revolt.png",
     "url": "https://app.revolt.chat/api"
+  },
+  {
+    "title": "Pepchat",
+    "image": "https://appconfig.zeko.chat/images/pepchat.png",
+    "url": "https://peptide.chat/api"
   }
 ]
